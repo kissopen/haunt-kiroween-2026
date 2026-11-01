@@ -42,8 +42,14 @@ Same-origin tabs synchronize changes. Current browsers use Web Locks to serializ
 
 ## Competition status
 
-This is a working prototype, not a completed Kiroween submission. The initial implementation was produced with Codex. Kiro IDE contributed a reviewed checklist-focus fix; its PowerShell encoding issue was corrected before final validation. Merely including `.kiro/` is not a Kiro contribution. See `docs/kiro-usage.md` before making any usage claim. A public GitHub repository, judge-accessible deployment and public YouTube demonstration still need to be finalized.
+Submitted to Kiroween 2026 (Costume Contest) on November 1, 2026. Devpost confirmed: Project submitted! The initial implementation was produced with Codex. Kiro IDE contributed a reviewed checklist-focus fix; its PowerShell encoding issue was corrected before final validation. Merely including `.kiro/` is not a Kiro contribution. See `docs/kiro-usage.md` before making any usage claim. The public repository, judge-accessible demo and YouTube demonstration are available below. Final Devpost entry status must be checked on Devpost.
 
-The Sites preview is owner-private by default. Do not submit an owner-private URL as the only judge demo.
+Public demo: https://haunt-focus-james.team-3-6317.chatgpt.site
+
+Public source: https://github.com/kissopen/haunt-kiroween-2026
+
+English-captioned video (1:28): https://youtu.be/Bw28pPL8QKY
+
+Devpost project: https://devpost.com/software/haunt-a-little-less-haunted
 
 MIT licensed. All in-app SVG illustrations are included in the source; no third-party image or font downloads are required.
